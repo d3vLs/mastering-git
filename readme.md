@@ -1,5 +1,5 @@
-# hello git this is a welcome message from your host `dev-tree`
+# git hello
 
-# Yoooo is a special merge confit branch written by `dev-tree` 
+# this is a message from `dev-d3vls`
 
 # this is a git message from `d3vls-test`
